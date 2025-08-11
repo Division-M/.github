@@ -1,0 +1,8 @@
+# About us
+Division-M Pty Ltd is a software engineering company based in Sydney, Australia. Established in the early '90s, Division-M has a long history working with file and network systems, Windows device drivers, and other low-level system components. We've tackled many robust technology challenges, and continue to do so.
+
+# Our technologies
+The software engineering game is all about being flexible, while at the same time being decisive about how you move with the "next biggest thing". As an example, all our backend service code is written in either C, C++, or Delphi... why? Because their performance is unmatched, even though these are decades-old technologies (that said, we do like the way Rust is heading). On the client-side, it is a different matter, and this is where the flexibility comes into play. Here we go with the technology that delivers the best user experience, along with the highest security model. Another great example is ANVIL. It sports a web-based UI/UX that provides a beautiful, always "up to date" user experience... while allowing the backend to authenticate against the cloud, which dramatically improves security.
+
+# Our history
+Division-M Pty Ltd, formally Microsmith Technology Pty Ltd, was merged as a division of Jacal Consulting Pty Ltd in 2003 (hence the name) and became a stand-alone entity in 2010. Division-M has been responsible for many successful products over the years, including Game Jackal (acquired by SlySoft Inc. in 2007), Drive Bender, Cloud Xtender, and our latest addition to the product family, ANVIL File Security. Proudly, our products have been used by many hundreds of thousands of customers, from all corners of the globe.
